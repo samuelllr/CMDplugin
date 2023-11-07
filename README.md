@@ -1,3 +1,2 @@
 # CMDplugin
-Plugin JS simula uma tela de CMD para exibir informações a
-k
+Plugin JS simula uma tela de CMD para exibir informações
